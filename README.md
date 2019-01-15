@@ -41,4 +41,5 @@ optional arguments:
   -h, --help            show this help message and exit
   --video_input VIDEO_INPUT
   --video_output VIDEO_OUTPUT
+  --test
 ```
