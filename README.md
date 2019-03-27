@@ -42,4 +42,5 @@ optional arguments:
   --video_input VIDEO_INPUT
   --video_output VIDEO_OUTPUT
   --test
+  --test2
 ```
